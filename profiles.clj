@@ -1,4 +1,4 @@
-{:dev {:plugins      [[lein-ancient "0.6.14"]]
+{:dev {:plugins      [[lein-ancient "0.6.15"]]
        :dependencies [[com.cognitect/transcriptor "0.1.5"]
                       [org.clojure/tools.namespace "0.2.11"]
                       [vvvvalvalval/scope-capture "0.1.4"]
